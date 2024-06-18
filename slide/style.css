@@ -1,0 +1,31 @@
+.container{
+      border-color: rgb(121, 134, 34);
+      height: 400px;
+}
+
+
+
+.cards{
+
+    max-width: 250px;
+    margin:0px auto;
+    text-align: center;
+    padding: 8px;
+    background-color: rgb(240, 215, 219) ;
+    border-color: rgb(232, 247, 227);
+   }
+   .container.cards:hover{
+    border-color: rgb(121, 134, 34);
+    height: 400px;
+    }
+
+ .shadow{
+    color: rgb(221, 160, 160);
+    height: auto;
+    text-shadow: 10px 10px 4px rgb(334, 82, 92);
+ }
+
+ .header{
+    color:rgb(194, 225, 164); 
+    text-align:center;   
+ }
